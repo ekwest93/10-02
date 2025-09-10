@@ -150,6 +150,7 @@ backend web_servers    # секция бэкенд
 ```
 
 #### Перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local и без него:
-<img width="892" height="633" alt="image" src="https://github.com/user-attachments/assets/ac45ca25-2f2e-4474-8503-0c0bc33d422c" />
+<img width="828" height="576" alt="image" src="https://github.com/user-attachments/assets/09ab54e1-e116-45c0-b98c-b8541d208ed1" />
+
 <img width="1840" height="657" alt="image" src="https://github.com/user-attachments/assets/3b3357eb-a197-49e4-aa3e-87dcd18109d8" />
 
